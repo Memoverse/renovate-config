@@ -11,5 +11,5 @@
       }
     }
   ],
-  "npmrc": "@gemunion:registry=https://npm.pkg.github.com/"
+  "npmrc": "legacy-peer-deps=true\n@gemunion:registry=https://npm.pkg.github.com/"
 }
